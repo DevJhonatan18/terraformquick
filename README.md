@@ -10,7 +10,9 @@ terraform version
 
 
 terraform init
+
 terraform init --get-plugins=false
+
 terraform init --verify-plugins=false
 
 
